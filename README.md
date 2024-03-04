@@ -2,7 +2,7 @@
 
 Submitted by: **Rahima KHabibullaeva**
 
-**Name of your app** is an app that ... [TODO] 
+**Name of your app** is an app that lets you play wordle with the features below
 
 Time spent: **2** hours spent in total
 
@@ -16,24 +16,20 @@ The following **required** functionality is completed:
 - [x] User can select "alien wordle", causing the goal word to change after each guess
 
 
-The following **optional** features are implemented:
-
-- [ ] App displays a reset button on the top left to reset the game (but make no changes to the settings)
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://youtube.com/shorts/ulnlwsUrPRE?feature=share) .
-
+<div>
+    <a href="https://www.loom.com/share/a9dea387c11d4f149bec9573fb36a0b9">
+      <p>Home | Loom - 4 March 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/a9dea387c11d4f149bec9573fb36a0b9">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a9dea387c11d4f149bec9573fb36a0b9-with-play.gif">
+    </a>
+  </div>
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 rahima khabib
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
